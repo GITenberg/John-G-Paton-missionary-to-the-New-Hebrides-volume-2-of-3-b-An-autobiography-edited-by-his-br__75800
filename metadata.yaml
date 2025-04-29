@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '32067'
     url: http://www.gutenberg.org/2009/agents/32067
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Tappan_Pierson
+covers:
+- cover_type: archival
+  image_path: 75800-h/images/cover.jpg
 creator:
   author:
     agent_name: Paton, John Gibson
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '33084'
     url: http://www.gutenberg.org/2009/agents/33084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75800#John-G-Paton-missionary-to-the-New-Hebrides-volume-2-of-3-b-An-autobiography-edited-by-his-br_
 gutenberg_issued: '2025-04-06'
 gutenberg_type: Text
 identifiers:
